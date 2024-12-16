@@ -14,7 +14,7 @@
 <br />
 
 [![GitHub Workflow Status](https://github.com/keep-starknet-strange/garaga/actions/workflows/test.yml/badge.svg)](https://github.com/keep-starknet-strange/garaga/actions/workflows/test.yml)
-[![Project license](https://img.shields.io/github/license/keep-starknet-strange/garaga.svg?style=flat-square)](LICENSE)
+[![Project license](https://img.shields.io/github/license/keep-starknet-strange/garaga.svg?style=flat-square)](https://opensource.org/license/MIT)
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/keep-starknet-strange/garaga/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 
 </div>
@@ -100,7 +100,7 @@ _For more information and to report security issues, please refer to our
 
 This project is licensed under the **MIT license**.
 
-See [LICENSE](LICENSE) for more information.
+See [LICENSE](https://opensource.org/license/MIT) for more information.
 
 ## Resources
 
